@@ -149,7 +149,8 @@ hashCode()modelo.domain.Event#hashCode()Ie
 &DoesQuestionExists(Ljava/lang/String;);modelo.domain.Event#DoesQuestionExists(Ljava/lang/String;)Zm
 *<init>(Ljava/lang/String;Ljava/util/Date;)?modelo.domain.Event#<init>(Ljava/lang/String;Ljava/util/Date;)V)
 <init>()modelo.domain.Event#<init>()V_
-#setEventNumber(Ljava/lang/Integer;)8modelo.domain.Event#setEventNumber(Ljava/lang/Integer;)V(
+#setEventNumber(Ljava/lang/Integer;)8modelo.domain.Event#setEventNumber(Ljava/lang/Integer;)V-
+org.hibernate.Transactionjava.lang.Object(
 java.lang.Appendablejava.lang.Object%
 java.io.Flushablejava.lang.Objectƒ
 java.io.OutputStreamjava.io.Closeablejava.lang.Objectjava.io.FlushableS
@@ -228,8 +229,7 @@ println(C)java.io.PrintStream#println(C)VK
 writeBytes([B)#java.io.PrintStream#writeBytes([B)VU
 <init>(Ljava/io/OutputStream;)3java.io.PrintStream#<init>(Ljava/io/OutputStream;)V/
 println([C) java.io.PrintStream#println([C)V‹
-9<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)Njava.io.PrintStream#<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)V-
-org.hibernate.Transactionjava.lang.Object›
+9<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)Njava.io.PrintStream#<init>(ZLjava/nio/charset/Charset;Ljava/io/OutputStream;)V›
 java.lang.Throwablejava.lang.Objectjava.io.Serializable;
 printStackTrace()&java.lang.Throwable#printStackTrace()V}
 2validateSuppressedExceptionsList(Ljava/util/List;)Gjava.lang.Throwable#validateSuppressedExceptionsList(Ljava/util/List;)IÁ

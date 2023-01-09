@@ -85,10 +85,6 @@ public class DataAccess implements DataAccessInterface {
 				q5=ev17.addQuestion("Quien va  a ganar?",1);
 				q6=ev17.addQuestion("Habra gol?",2);
 				
-				System.out.println("llega");
-				
-				System.out.println(q1);
-				
 				session.save(ev1);
 				session.save(ev2);
 				session.save(ev3);
@@ -116,40 +112,6 @@ public class DataAccess implements DataAccessInterface {
 				session.save(q4);
 				session.save(q5);
 				session.save(q6);
-				
-				/*
-				System.out.println(q1);
-			
-				session.persist(ev1);
-				session.persist(ev2);
-				session.persist(ev3);
-				session.persist(ev4);
-				session.persist(ev5);
-				session.persist(ev6);
-				session.persist(ev7);
-				session.persist(ev8);
-				session.persist(ev9);
-				session.persist(ev10);
-				session.persist(ev11);
-				session.persist(ev12);
-				session.persist(ev13);
-				session.persist(ev14);
-				session.persist(ev15);
-				session.persist(ev16);
-				session.persist(ev17);
-				session.persist(ev18);
-				session.persist(ev19);
-				session.persist(ev20);
-				
-				session.persist(q1);
-				session.persist(q2);
-				session.persist(q3);
-				session.persist(q4);
-				session.persist(q5);
-				session.persist(q6);
-		
-	        */
-						
 			
 			session.getTransaction().commit();
 			System.out.println("Db initialized");

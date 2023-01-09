@@ -106,11 +106,6 @@ public class CrearPreguntaBean {
 	}
 	
 	public void pruebaDatos() {
-		System.out.println(fecha);
-		System.out.println(pregunta);
-		System.out.println(apuesta);
-		System.out.println(sevento);
-		System.out.println(evento);
 		
 		if(evento==null) {
 			this.mensaje="evento nulo";
