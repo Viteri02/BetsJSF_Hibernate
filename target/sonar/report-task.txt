@@ -3,5 +3,5 @@ projectKey=BetsJSFViteri
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.36490
 dashboardUrl=https://sonarcloud.io/dashboard?id=BetsJSFViteri
-ceTaskId=AYWXs2IwttNYyI2MKIaX
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYWXs2IwttNYyI2MKIaX
+ceTaskId=AYWXvCswJMfFk-0pIk7R
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYWXvCswJMfFk-0pIk7R
