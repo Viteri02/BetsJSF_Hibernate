@@ -37,6 +37,7 @@ public class CrearPreguntaBean {
 		return evento;
 	}
 	
+	
 	public String getMensaje() {
 		return mensaje;
 	}
