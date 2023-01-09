@@ -61,7 +61,7 @@
 <sonar.organization>martinviteri</sonar.organization>
 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 <sonar.projectKey>BetsJSFViteri</sonar.projectKey>
-<sonar.login>e9e558264df8710764a2f34062b4128df36539a0</sonar.login>
+<sonar.login>9c0ea7471d16f3b6b6a1a6d6cee0926600fb6910</sonar.login>
 <maven.compiler.target>11</maven.compiler.target>
 <maven.compiler.source>11</maven.compiler.source>
 </properties>
