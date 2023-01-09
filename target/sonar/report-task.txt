@@ -3,5 +3,5 @@ projectKey=BetsJSF_Hibernate
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.36490
 dashboardUrl=https://sonarcloud.io/dashboard?id=BetsJSF_Hibernate
-ceTaskId=AYWX1Lc57aFG0kWc_R5h
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYWX1Lc57aFG0kWc_R5h
+ceTaskId=AYWYsNpjihdoT8epIiUj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYWYsNpjihdoT8epIiUj

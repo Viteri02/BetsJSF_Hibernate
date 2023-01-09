@@ -20,7 +20,6 @@ public class CrearPreguntaBean {
 	private String sevento;
 	private String mensaje="";
 	private static List<Event> eventos= new ArrayList<Event>();
-	//DataAccessInterface dataAccess = new DataAccess();
 	BLFacade bl = new BLFacadeImplementation(DataAccess.getInstance());
 
 	public Event getEvento() {

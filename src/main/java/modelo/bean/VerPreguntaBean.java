@@ -16,7 +16,6 @@ public class VerPreguntaBean {
 	private Question apuesta;
 	private static List<Question> apuestas= new ArrayList<Question>();
 	private static List<Event> eventos= new ArrayList<Event>();
-	//DataAccessInterface dataAccess = new DataAccess();
 	BLFacade bl = new BLFacadeImplementation(DataAccess.getInstance());
 	
 	

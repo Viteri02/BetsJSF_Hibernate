@@ -1,5 +1,4 @@
 modelo.bean.CrearPreguntaBean#instance-init#
-dataAccess.DataAccess#instance-init#
+dataAccess.DataAccess#getInstance()LdataAccess/DataAccess;
 businessLogic.BLFacadeImplementation#instance-init#
-dataAccess.DataAccess#<init>()V
 businessLogic.BLFacadeImplementation#<init>(LdataAccess/DataAccessInterface;)V
