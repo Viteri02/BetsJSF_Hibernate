@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:ui="http://java.sun.com/jsf/facelets"
+xmlns:h="http://java.sun.com/jsf/html"
+xmlns:f="http://java.sun.com/jsf/core"
+xmlns:p="http://primefaces.org/ui">
+<f:view>
+<h:head><title>Aplicación JavaServer Faces</title></h:head>
+<h:body>
+	<h3>Ver Evento</h3>
+	<h:form id="miForm">
+		
+			
+			
+			<tr>
+				<td>
+					<h3>Fecha del evento</h3>
+					
+					<p:calendar id="calendario" value="#{verbean.fecha}" navigator="false" mode="inline">
+					<p:ajax event="dateSelect" listener="#{verbean.cargarEventos}" update=":miForm:fecha :miForm:tablaEventos"></p:ajax>
+					</p:calendar>
+				</td>
+				<td>
+					<h3>Fecha del evento: <h:outputText id="fecha" value="#{verbean.fecha}"/></h3>
+					
+				<tr>
+					<h:dataTable id="tablaEventos" value="#{verbean.eventos}" var="item">
+						<f:facet name="header">Eventos:</f:facet>
+							<h:column>
+								 #{item}
+							</h:column>
+							<h:column>
+								<h:commandButton value="Ver apuestas" action="#{verbean.cargarApuestas(item)}" update=":miForm:tablaApuestas"/>
+							</h:column>
+					</h:dataTable>
+				</tr>
+					
+				</td>
+			</tr>
+	<br></br>
+			<tr>
+				<td>
+					<h:dataTable id="tablaApuestas" value="#{verbean.apuestas}" var="item">
+						<f:facet name="header">Apuestas:</f:facet>
+							<h:column>
+								 #{item}
+							</h:column>
+					</h:dataTable>
+				</td>
+				<br></br>
+			</tr>
+	<h:commandButton value="Cerrar" action="cerrar"/>
+	
+	<p>
+	
+		<h:messages id="mensajes" style="color:blue"/>
+	
+	</p>
+		
+	</h:form>
+</h:body>
+</f:view>
+</html>

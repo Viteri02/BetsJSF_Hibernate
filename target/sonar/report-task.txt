@@ -1,0 +1,7 @@
+organization=martinviteri
+projectKey=BetsJSFViteri
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.36490
+dashboardUrl=https://sonarcloud.io/dashboard?id=BetsJSFViteri
+ceTaskId=AYWXjckbffoQrqoZKi1P
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYWXjckbffoQrqoZKi1P

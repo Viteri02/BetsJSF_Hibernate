@@ -1,0 +1,4 @@
+dataAccess.DataAccess#createQuestion(Lmodelo/domain/Event;Ljava/lang/String;F)Lmodelo/domain/Question;
+exceptions.QuestionAlreadyExist#<init>()V
+modelo.HibernateUtil#getSessionFactory()Lorg/hibernate/SessionFactory;
+exceptions.QuestionAlreadyExist#instance-init#

@@ -1,0 +1,49 @@
+
+0modelo.domain.Event#toString()Ljava/lang/String;c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaL L("1*•
+1c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM	 M(Í
+Ê
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM	 M(
+%0java.lang.Integer"__id*D
+
+__unknown_file ((*&
+modelo.domain.Event"
+eventNumberû
+ø
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM	 M(
+%1java.lang.String"__concat*€
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM	 M(
+
+%0java.lang.Integer*l
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM M(
+;Ì
+É
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM M($
+%2java.lang.String"__id*D
+
+__unknown_file ((*&
+modelo.domain.Event"
+descriptionŒ
+‰
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM	 M($
+%3java.lang.String"__concat*
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM	 M(
+
+%1java.lang.String*
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM M($
+
+%2java.lang.String"
+c
+YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM M(%
+
+%3java.lang.StringB
+modelo.domain.EventH

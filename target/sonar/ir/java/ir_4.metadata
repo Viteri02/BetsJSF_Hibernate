@@ -1,0 +1,4 @@
+dataAccess.DataAccess#getEvents(Ljava/util/Date;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+modelo.HibernateUtil#getSessionFactory()Lorg/hibernate/SessionFactory;
+java.util.ArrayList#instance-init#

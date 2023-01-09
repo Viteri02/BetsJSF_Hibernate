@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:ui="http://java.sun.com/jsf/facelets"
+xmlns:h="http://java.sun.com/jsf/html"
+xmlns:f="http://java.sun.com/jsf/core"
+xmlns:p="http://primefaces.org/ui">
+<f:view>
+<h:head><title>Aplicación JavaServer Faces</title></h:head>
+<h:body>
+	<h3>Crear Evento</h3>
+	<h:form id="miForm">
+		
+			
+			
+			<tr>
+				<td>
+					<h3>Fecha del evento</h3>
+					
+					<p:calendar id="calendario" value="#{bean.fecha}" navigator="false" mode="inline">
+					<p:ajax event="dateSelect" listener="#{bean.cargarEventos}" update=":miForm:fecha :miForm:lista"></p:ajax>
+					</p:calendar>
+				</td>
+				
+				<td>
+					<h:outputText id="mensajes" value="#{bean.mensaje}" style="color:blue"/>
+				</td>
+		 
+				<td>
+					<h3>Fecha del evento: <h:outputText id="fecha" value="#{bean.fecha}"/></h3>
+					<td>Eventos</td>
+					<h:selectOneMenu id="lista" value="#{bean.sevento}">
+					<f:selectItems value="#{bean.eventos}"/>
+					<f:ajax event="change" listener="#{bean.eventoSeleccionado}"/>
+					</h:selectOneMenu>
+					
+				</td>
+			</tr>
+				<br></br>
+			<tr>
+					<br></br>
+				<td>Pregunta:</td>
+				<td><h:inputText id="pregunta" value="#{bean.pregunta}"></h:inputText></td>
+					<br></br>
+				<td>Apuesta minima:</td>
+				<td><h:inputText id="apuesta" value="#{bean.apuesta}"></h:inputText></td>
+				<br></br>
+			</tr>
+	<br></br>
+	<h:commandButton value="Crear Pregunta" action="#{bean.pruebaDatos}" update="mensajes"/>
+	<h:commandButton value="Cerrar" action="cerrar"/>
+	
+
+	</h:form>
+</h:body>
+</f:view>
+</html>

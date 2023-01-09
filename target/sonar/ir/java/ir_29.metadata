@@ -1,0 +1,2 @@
+modelo.bean.CrearPreguntaBean#getObject(Ljava/lang/String;)Lmodelo/domain/Event;
+java.lang.String#equals(Ljava/lang/Object;)Z

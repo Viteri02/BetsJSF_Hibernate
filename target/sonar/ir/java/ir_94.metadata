@@ -1,0 +1,2 @@
+modelo.bean.VerPreguntaBean#cargarApuestas(Ljava/lang/String;)V
+modelo.bean.VerPreguntaBean#getObject(Ljava/lang/String;)Lmodelo/domain/Event;

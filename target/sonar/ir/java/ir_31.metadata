@@ -1,0 +1,2 @@
+modelo.bean.CrearPreguntaBean#eventoSeleccionado()V
+modelo.bean.CrearPreguntaBean#getObject(Ljava/lang/String;)Lmodelo/domain/Event;

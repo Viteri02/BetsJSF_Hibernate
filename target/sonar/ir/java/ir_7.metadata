@@ -1,0 +1,2 @@
+dataAccess.DataAccess#getEvent(Lmodelo/domain/Event;)Lmodelo/domain/Event;
+modelo.HibernateUtil#getSessionFactory()Lorg/hibernate/SessionFactory;
