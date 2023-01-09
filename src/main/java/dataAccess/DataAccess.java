@@ -1,20 +1,10 @@
 package dataAccess;
-
-import java.io.File;  
+ 
 import java.util.ArrayList;
 //hello
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
-//hola
-import java.util.Map;
-import java.util.ResourceBundle;
-import java.util.Vector;
-
-import javax.persistence.EntityManager;
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
-import javax.persistence.TypedQuery;
 
 import configuration.UtilDate;
 import modelo.domain.*;
@@ -90,9 +80,9 @@ public class DataAccess implements DataAccessInterface {
 		
 				q1=ev1.addQuestion("Quien gana?",1);
 				q2=ev1.addQuestion("Quien mete gol?",2);
-				q3=ev11.addQuestion("Quien gana?",1);
+				q3=ev11.addQuestion("Quien ganara?",1);
 				q4=ev11.addQuestion("Cuantos goles?",2);
-				q5=ev17.addQuestion("Quien gana?",1);
+				q5=ev17.addQuestion("Quien va  a ganar?",1);
 				q6=ev17.addQuestion("Habra gol?",2);
 				
 				System.out.println("llega");

@@ -1,10 +1,9 @@
 package businessLogic;
+
 import java.util.Date;
 import java.util.List;
 import java.util.ResourceBundle;
-import java.util.Vector;
 
-import dataAccess.DataAccess;
 import dataAccess.DataAccessInterface;
 import modelo.domain.*;
 import exceptions.EventFinished;

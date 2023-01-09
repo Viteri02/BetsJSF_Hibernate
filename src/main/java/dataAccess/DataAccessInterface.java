@@ -2,7 +2,6 @@ package dataAccess;
 
 import java.util.Date;
 import java.util.List;
-import java.util.Vector;
 
 import modelo.domain.*;
 import exceptions.QuestionAlreadyExist;
