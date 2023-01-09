@@ -1,49 +1,49 @@
 
-0modelo.domain.Event#toString()Ljava/lang/String;c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaM M("1*ï
-1c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN	 N(Õ
- 
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN	 N(
+0modelo.domain.Event#toString()Ljava/lang/String;f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaM M("1*∂
+1f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN	 N(–
+Õ
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN	 N(
 %0java.lang.Integer"__id*D
 
 __unknown_file ((*&
 modelo.domain.Event"
-eventNumber˚
-¯
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN	 N(
-%1java.lang.String"__concat*Ä
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN	 N(
+eventNumberÑ
+Å
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN	 N(
+%1java.lang.String"__concat*É
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN	 N(
 
-%0java.lang.Integer*l
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN N(
-;Ã
-…
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN N($
+%0java.lang.Integer*o
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN N(
+;œ
+Ã
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN N($
 %2java.lang.String"__id*D
 
 __unknown_file ((*&
 modelo.domain.Event"
-descriptionå
-â
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN	 N($
-%3java.lang.String"__concat*
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN	 N(
+descriptionó
+î
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN	 N($
+%3java.lang.String"__concat*Ç
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN	 N(
 
-%1java.lang.String*
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN N($
+%1java.lang.String*Ç
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN N($
 
-%2java.lang.String"
-c
-YC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/domain/Event.javaN N(%
+%2java.lang.String"Ç
+f
+\C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/domain/Event.javaN N(%
 
 %3java.lang.StringB
 modelo.domain.EventH

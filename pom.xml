@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion>
 <groupId>martinviteri</groupId>
-<artifactId>BetsJSFViteri</artifactId>
+<artifactId>BetsJSF_Hibernate</artifactId>
 <version>0.0.1-SNAPSHOT</version>
 <build>
 <plugins>
@@ -60,8 +60,8 @@
 <maven.compiler.source>1.8</maven.compiler.source>
 <sonar.organization>martinviteri</sonar.organization>
 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-<sonar.projectKey>BetsJSFViteri</sonar.projectKey>
-<sonar.login>513803c8074c7139b95919f3cb9de620b259fa1c</sonar.login>
+<sonar.projectKey>BetsJSF_Hibernate</sonar.projectKey>
+<sonar.login>6b1210b1d8654634566dd58cae1881389fcd2cb3</sonar.login>
 <maven.compiler.target>11</maven.compiler.target>
 <maven.compiler.source>11</maven.compiler.source>
 </properties>

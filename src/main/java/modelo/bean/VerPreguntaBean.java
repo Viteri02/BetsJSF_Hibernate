@@ -2,22 +2,14 @@ package modelo.bean;
 import java.util.ArrayList; 
 import java.util.Date;
 import java.util.List;
-import java.util.Vector;
-
-import javax.faces.application.FacesMessage;
-import javax.faces.context.FacesContext;
-import javax.faces.event.AjaxBehaviorEvent;
-
-import org.primefaces.event.SelectEvent;
 
 import businessLogic.BLFacade;
 import businessLogic.BLFacadeImplementation;
-import configuration.UtilDate;
+
 import dataAccess.DataAccess;
 import dataAccess.DataAccessInterface;
 import modelo.domain.*;
-import exceptions.EventFinished;
-import exceptions.QuestionAlreadyExist;
+
 
 	
 

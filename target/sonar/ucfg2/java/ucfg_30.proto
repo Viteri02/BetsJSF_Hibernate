@@ -1,40 +1,40 @@
 
-Hmodelo.HibernateUtil#buildSessionFactory()Lorg/hibernate/SessionFactory;d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java (2"7*¯
-4d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java (>"å
-d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java (>$
+Hmodelo.HibernateUtil#buildSessionFactory()Lorg/hibernate/SessionFactory;g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java (2"7*˛
+4g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java (>"è
+g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java (>$
 "
-%3org.hibernate.SessionFactory*Ø
-5d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java (=æª
-d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java (="
+%3org.hibernate.SessionFactory*µ
+5g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java (=¡æ
+g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java (="
 %3org.hibernate.SessionFactory"Sorg.hibernate.cfg.Configuration#buildSessionFactory()Lorg/hibernate/SessionFactory;*C
 
 __unknown_file ('
 %
 %2org.hibernate.cfg.Configuration2buildSessionFactory()*
-4*°
-6d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java ('∞≠
-d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java ('%
+4*ß
+6g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java ('≥∞
+g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java ('%
 %2org.hibernate.cfg.Configuration"Lorg.hibernate.cfg.Configuration#configure()Lorg/hibernate/cfg/Configuration;*C
 
 __unknown_file ('
 %
 %0org.hibernate.cfg.Configuration2configure()*
-5*Ñ
-7d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java (±Æ
-d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java (%
-%0org.hibernate.cfg.Configuration"org.hibernate.cfg.Configurationﬂ
-‹
-d
-ZC:/Users/Viteri/OneDrive/Desktop/EclipseWS/BetsJSF/src/main/java/modelo/HibernateUtil.java (
+5*ç
+7g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java (¥±
+g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java (%
+%0org.hibernate.cfg.Configuration"org.hibernate.cfg.Configuration‚
+ﬂ
+g
+]C:/Users/Viteri/OneDrive/Desktop/WS/BetsJSF_Hibernate/src/main/java/modelo/HibernateUtil.java (
 %1")org.hibernate.cfg.Configuration#<init>()V*C
 
 __unknown_file ('
